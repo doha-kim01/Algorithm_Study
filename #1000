@@ -1,8 +1,0 @@
-#1000
-while (True):
-  num = input()
-  A = int(num[0])
-  B = int(num[-1])
-  if (0<A and A<10) and (0<B and B<10) :
-    print(A+B)
-    break

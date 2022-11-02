@@ -1,13 +1,13 @@
-# 2022-2 BaekJun Algorithm
-## Algorithm_Study
-### Week1
-### Week2
-### Week3
-### Week4
-### Week5
+## 2022-2 BaekJun Algorithm
+### Algorithm_Study
+
 ### Week8
-### Week9
-### Week10
-### Week11
-### Week12
-### Week13
+다이나믹 프로그래밍
+
+1463번) 1로 만들기
+
+9095번) 1, 2, 3 더하기
+
+2225번) 합분해
+
+*동적 계획법 사용
